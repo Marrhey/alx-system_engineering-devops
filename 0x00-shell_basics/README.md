@@ -1,1 +1,1 @@
-where am I 
+ list of your current directory
