@@ -1,1 +1,1 @@
- script that creates a directory 
+ changes the working directory to the previous one 
